@@ -192,3 +192,6 @@ public class Everland {
         return count; // 총 티켓 개수 반환
     }
 }
+
+
+// 구구단 하는데 예 3단은 빼라. 
