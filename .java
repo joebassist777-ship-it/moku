@@ -8,10 +8,11 @@ public class Gest {
 	}//손님이 돈을 꺼낸다.
 	void buy(Starbucks s) {
 		this.c = s.sell(m);
-	}// 커피 구매한다.
-	// s.sell(new Money());// 이건 부자
+	}// 보이드는 카페에서 커피를 산다
+	// 디스는 커피를 돈을 주고 커피를 받아서 산다.
 }
 
+	// s.sell(new Money());// 이건 부자
 
 ==========================
 
